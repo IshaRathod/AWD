@@ -1,0 +1,36 @@
+.box{
+    height: 300px;
+    width: 430px;
+    margin: 20px 20px 20px 20px;
+    padding: 1px 30px 1px 30px;
+    border: 4px dotted black;
+    background-color: aqua;
+}
+.box:hover{
+    border: 5px double aqua;
+    background-color: black;
+    color: aqua;
+}
+.box1{
+    height: 300px;
+    width: 450px;
+    margin: 10px 520px 10px 520px;
+    padding: 1px 30px 1px 30px;
+    border: 4px dotted black;
+    border-color: black;
+    background-color: aqua;
+}
+
+.box1:hover{
+    border: 5px double aqua;
+    background-color: black;
+    color: aqua;
+}
+.main{
+    height: 670px;
+    width: 1050px;
+    margin: 20px 2px;
+    padding: 2px 2px;
+    border: 5px double black;
+    background-color: rgb(236, 189, 229);
+}
